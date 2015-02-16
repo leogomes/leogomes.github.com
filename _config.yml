@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Leo Gomes
+tagline:          Open source and random things
+description:      
+url:              http://leogomes.github.io
+paginate:         5
+baseurl:          /
+
+# About/contact
+author:
+  name:           Leonardo Freitas Gomes
+  url:            https://twitter.com/lgomes
+  email:          leonardo.f.gomes@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/leogomes
