@@ -10,10 +10,10 @@ relative_permalinks: true
 
 # Setup
 title:            Leo Gomes
-tagline:          Open source and random things
-description:      
+tagline:          'Open source and random things'
+description:      #'These days you will mostly read about <a href="http://netty.io">Netty</a> here.'
 url:              http://leogomes.github.io
-paginate:         5
+paginate:         1
 baseurl:          /
 
 # About/contact
