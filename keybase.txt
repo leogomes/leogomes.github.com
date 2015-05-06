@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/leogomes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leogomes.github.io
+  * I am leogomes (https://keybase.io/leogomes) on keybase.
+  * I have a public key with fingerprint 9B97 A010 A4AE 65A9 457A  5384 285A F9D1 5045 3311
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "9b97a010a4ae65a9457a5384285af9d150453311",
+            "host": "keybase.io",
+            "key_id": "285AF9D150453311",
+            "uid": "eb4284ca46fef12fe0cdb9dafce4be19",
+            "username": "leogomes"
+        },
+        "merkle_root": {
+            "ctime": 1430871740,
+            "hash": "cd32589990a5b6eb8a6b2d5755a2173080555f0eb33705370929d410ad4e284cf85b011e7a0174f2e2c35d6943d81a313765227e566b5ca26f99ef21f0eb4bd2",
+            "seqno": 216281
+        },
+        "service": {
+            "hostname": "leogomes.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430871956,
+    "expire_in": 157680000,
+    "prev": "7d1c2412c401e7a5068cbe990c0f275251c814441147c1e3fb599849e2d223b1",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdUnlMFFccXlaspaKCNdgGA3R6LXXFeTPz5li0HkEKpRXaYMCDrnO8gcFlZ5lZ
+tmwpWBurJcHSAjZyCjZUEotWRFMhXG09Eo9qrW09Qko2/GGhRKJYCUvTGUpT7Ute
+8o7v9/2+73vv0wVzLNYQ25bJqxkbyMiQC3cEy6ZUZ00JJqiSH3OUYKJLQW6vuXLz
+BQhzYDuQX+B1lKCocW5VQgn5etwsxo75kKYrqttA4QlMAouV2k24WSwr7lykeTTF
+5MI4gWN4HOA8xSMa8hwFGR6SLEWwkJc5CUCcgiQJgEGZp+rex7piM5xORTJODfy6
+ZC7pUXzRzAUSDC5K5ClaRjIgZISLksBJvCwiSkCAM4E60mYtuZCaqxYg3dRbgLQd
+LuTUVHXGtOhVTAigSJxlAEPhhiJezzOKRIkkIMtxHM5DgUYCy9MCIUEGQp4AjAHH
+IYQyjgSSZHBoTI7gJMrwLFHI1CazUMABQGYQDCUTiBBJKNEcRUos4ElAMjQkCAZB
+mhagyBO0zHFIJoBJSQkSYVjQUaFbxRwEoAkWlJp7zaeIyNRtxvY/dwm5ijevSPgn
+Qo+melVRdRn3eV6vR3eY3r1+D+o0Tt5FgnOWyykobsl4u0cf12z1eC4cpO0YKvYo
+GnIqJgIyNIsbw2yEfAYlIwGRoAAhUrhpGeI0KwrICE/EZYKBBAQiCyiKAoBiRIBI
+WYAcx1IcIiSCIAXwn1vS0MnnGpS6kuvmvUUawkrLrctCLSFWyxNzrebvtTwVFvHv
+l37Nvyg4v3ggo6O7foyvWRH/Z9Sat09MNJbhu/sbEsfLzsXsb6me31F0Jhb67IdP
+/VE+EtX08PBSjB2727rtZFS+neydrE1pWkm/FwxzfbKk9c3hwZYXpl6/NF792ZHt
+/a6CH07eL+96Y42+ZfnqPmth3baDq7J/9i6zZ2dd0Aayzx7f+uWi+qPhtv5gW5wl
+drqm8VrbvV7wfbElamRjRa/t+Zwwz4dt7dmWtnEyEHOk/sBl24nTmXX363y3Gu+t
+r5rbsi61u7Nqe070wuHawZupORVNozc2q+lM7HfHkr5pWl45WtY7GCHFRIvZvzZ0
+9vTkB1s3r611LZLDbh3dVTWZcujaX8vf3xea9dz5nNG02/sPNN9tXeIInXixcaFe
+9bFS1nK50uVs1hpWNn+gdmvPzAtP3nnz1ZHMjBbbmRH/vsTg+d1SeEd2TcmSDM/i
+s4m+TXX61w9OOwYFW/SPZZ/XTPdd32mdPlN5M3D/i9Cp2JORQvdcPiJ+KrChpHoo
+GX+wanHX73OmziW6z8Zf/BZrmAhYTg/d9kb+tNefGs1Fp320IPJh+tU1mL9o7M7Y
+2lPHMPbuxUPpKZfuFB/c2FOX9mTo8O7KryqeXtk+VfGLP9Kx5zq/NG5yaqA2GLwx
+rzejvXnrA1vp+o4kZ9LxwOr4V67s7RvaRQ/RK57NKuzidD6Q+c5LV35LX52VXE6+
+/Fb13w==
+=XuFr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leogomes
+
+==================================================================
