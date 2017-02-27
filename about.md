@@ -9,10 +9,9 @@ Born and raised in Brazil.
 
 Living in France, where I feel home, since 2008.
 
-Working for [Amadeus](/dayjob), where I manage a team of seven full-stack ninjas.
-We come from six different countries and speak nine different languages, if you count them all.
+I work for [Amadeus](/dayjob), where I have written software, managed a team for nearly four years and where I'm now a Performance Architect.
 
-Building large scale solutions for the travel industry. Enjoying it.
+We build large scale solutions for the travel industry.
 
 Mainly interested in [open-source](https://www.ohloh.com/accounts/leogomes/positions), [guitar playing](https://soundcloud.com/leonardo-gomes-23), [film photography](http://www.lomography.com/homes/leogomes) and cooking.
 
